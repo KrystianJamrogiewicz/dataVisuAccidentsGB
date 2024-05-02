@@ -3,6 +3,7 @@ Data visualization of road accidents in the UK from 2005-2015 using Power BI.
 
 
 <p align="center"> <img src="https://github.com/KrystianJamrogiewicz/dataVisuAccidentsUK/assets/155767356/02362a0d-5171-43ae-99f2-471e570b75de" alt="accitentsUKhowManyWhenWhere"> </p>
+<p align="center"> <img src="https://github.com/KrystianJamrogiewicz/dataVisuAccidentsUK/assets/155767356/0e8d621e-5822-4366-82cc-0dbf5e95d2c6"> </p>
 
 
 The default interface presents data on accidents for the entire period (from 2005 to 2015). On the first page, you can narrow down this period to specific years and months, as well as by the severity of the accident. On the same page, you will find: the total number of accidents in the selected period, a chart showing the number of accidents on each day, a chart showing the number of accidents at each hour, a table with information about each accident, a map depicting the accident locations, and a pie chart showing the number of accidents based on road type.
